@@ -3,6 +3,6 @@ import { Track } from  './track';
 export interface Album {
     name: string;
     releaseDate: string;
-    coverimgae: string;
+    coverImage: string;
     tracks: Track[];
 }
